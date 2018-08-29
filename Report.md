@@ -162,7 +162,7 @@ The train users data file has 213451 rows, where each rows describes 15 features
 
 
 ```python
-Image(url= "img/Gender_Count.PNG", width=800, height=800)
+<img src="img/Gender_Count.PNG" width="800" height="800"/>
 ```
 
 
